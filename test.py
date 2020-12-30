@@ -1,0 +1,2 @@
+import nirvanarun
+nirvanarun.run()
